@@ -1,6 +1,6 @@
 {
 	"Name": "OhTofu's Big Summer Brawl",
-	"Version": 1752601459,
+	"Version": 1752612384,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -135,15 +135,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"11",
-				"246",
-				"34",
-				"36",
-				"38",
-				"76",
-				"121"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
